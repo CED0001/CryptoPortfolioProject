@@ -1,0 +1,307 @@
+﻿++Solution 'CryptoPortfolio' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:CryptoPortfolio.sln
+++CryptoPortfolio
+i:{00000000-0000-0000-0000-000000000000}:CryptoPortfolio
+++Connected Services 
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:>923
+++Dependencies
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:>922
+++Properties
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\properties\
+++wwwroot
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\
+++CoinGecko
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\coingecko\
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\models\coingecko\
+++CoinGeckoApi.cs
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\coingecko\coingeckoapi.cs
+++Controllers
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\controllers\
+++Data
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\data\
+++CryptoPortfolioContext.cs
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\data\cryptoportfoliocontext.cs
+++Seeder.cs
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\data\seeder.cs
+++Migrations
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\migrations\
+++Models
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\models\
+++Enum
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\models\enum\
+++CoinGeckoCoin.cs
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\models\coingeckocoin.cs
+++ErrorViewModel.cs
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\models\errorviewmodel.cs
+++FiatType.cs
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\models\fiattype.cs
+++Transaction.cs
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\models\transaction.cs
+++Views
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\views\
+++appsettings.json
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\appsettings.json
+++Program.cs
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\program.cs
+++SQL Server Express LocalDB (Local) (ConnectionStrings:CryptoPortfolioContext)
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:>951
+++Analyzers
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:analyzers
+++Frameworks
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:frameworks
+++Packages
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:packages
+++launchSettings.json
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\properties\launchsettings.json
+++serviceDependencies.json
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\properties\servicedependencies.json
+++css
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\css\
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\js\
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\
+++favicon.ico
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\favicon.ico
+++CoinGeckoCoinsController.cs
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\controllers\coingeckocoinscontroller.cs
+++HomeController.cs
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\controllers\homecontroller.cs
+++TransactionsController.cs
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\controllers\transactionscontroller.cs
+++20220418134946_InitialCreate1.cs
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\migrations\20220418134946_initialcreate1.cs
+++20220418163823_coingeckocoin.cs
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\migrations\20220418163823_coingeckocoin.cs
+++20220418164537_relation.cs
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\migrations\20220418164537_relation.cs
+++CryptoPortfolioContextModelSnapshot.cs
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\migrations\cryptoportfoliocontextmodelsnapshot.cs
+++CoinGeckoCoinJson.cs
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\models\coingecko\coingeckocoinjson.cs
+++CoinGeckoCurrency.cs
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\models\coingecko\coingeckocurrency.cs
+++TransactionType.cs
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\models\enum\transactiontype.cs
+++Home
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\views\home\
+++Shared
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\views\shared\
+++Transactions
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\views\transactions\
+++_ViewImports.cshtml
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\views\_viewstart.cshtml
+++appsettings.Development.json
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\appsettings.development.json
+++MessagePackAnalyzer
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:c:\users\cedric\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.Analyzers
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:c:\users\cedric\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:c:\users\cedric\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:c:\users\cedric\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.4\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore.Design (6.0.4)
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:>946
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.4)
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:>945
+++Microsoft.EntityFrameworkCore.Tools (6.0.4)
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:>949
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.3)
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:>950
+++Newtonsoft.Json (13.0.1)
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:>948
+++Swashbuckle.AspNetCore (6.3.0)
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:>947
+++serviceDependencies.local.json
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\properties\servicedependencies.local.json
+++site.css
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\css\site.css
+++site.js
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\js\site.js
+++bootstrap
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\
+++jquery
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\jquery\
+++jquery-validation
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\jquery-validation-unobtrusive\
+++20220418134946_InitialCreate1.Designer.cs
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\migrations\20220418134946_initialcreate1.designer.cs
+++20220418163823_coingeckocoin.Designer.cs
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\migrations\20220418163823_coingeckocoin.designer.cs
+++20220418164537_relation.Designer.cs
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\migrations\20220418164537_relation.designer.cs
+++Index.cshtml
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\views\home\index.cshtml
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\views\transactions\index.cshtml
+++Privacy.cshtml
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\views\home\privacy.cshtml
+++_Layout.cshtml
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\views\shared\error.cshtml
+++Create.cshtml
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\views\transactions\create.cshtml
+++Delete.cshtml
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\views\transactions\delete.cshtml
+++Details.cshtml
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\views\transactions\details.cshtml
+++Edit.cshtml
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\views\transactions\edit.cshtml
+++dist
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\jquery\dist\
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\jquery\license.txt
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++_Layout.cshtml.css
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\views\shared\_layout.cshtml.css
+++jquery.js
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++20220422205604_test.cs
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\migrations\20220422205604_test.cs
+++20220422205604_test.Designer.cs
+i:{e1b99a7b-c760-4482-bc33-60b39bddfb57}:d:\school gr 2\dotnet frameworks\examen\cryptoportfolio\cryptoportfolio\migrations\20220422205604_test.designer.cs

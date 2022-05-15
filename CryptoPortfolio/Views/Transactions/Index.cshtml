@@ -1,0 +1,89 @@
+﻿@model IEnumerable<CryptoPortfolio.Models.Transaction>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ShortName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CryptoName)
+            </th>
+            @* <th> *@
+            @*     @Html.DisplayNameFor(model => model.CoinGeckoCoinId) *@
+            @* </th> *@
+            <th>
+                @Html.DisplayNameFor(model => model.CryptoAmount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FiatAmount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FiatTypeId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TransactionType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CreatedOn)
+            </th>
+            @* <th> *@
+            @*     @Html.DisplayNameFor(model => model.ModifiedOn) *@
+            @* </th> *@
+            @* <th> *@
+            @*     @Html.DisplayNameFor(model => model.DeletedOn) *@
+            @* </th> *@
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ShortName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CryptoName)
+            </td>
+            @* <td> *@
+            @*     @Html.DisplayFor(modelItem => item.CoinGeckoCoinId) *@
+            @* </td> *@
+            <td>
+                @Html.DisplayFor(modelItem => item.CryptoAmount)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FiatAmount)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FiatTypeId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TransactionType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreatedOn)
+            </td>
+            @* <td> *@
+            @*     @Html.DisplayFor(modelItem => item.ModifiedOn) *@
+            @* </td> *@
+            @* <td> *@
+            @*     @Html.DisplayFor(modelItem => item.DeletedOn) *@
+            @* </td> *@
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
