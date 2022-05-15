@@ -10,6 +10,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using CryptoPortfolio.Data;
 using CryptoPortfolio.Models;
+using CryptoPortfolio.Models.Enum;
 
 namespace CryptoPortfolio.Controllers
 {
@@ -83,6 +84,11 @@ namespace CryptoPortfolio.Controllers
             {
                 return NotFound();
             }
+            /*
+             * todo:
+             * get from db: crypto names & small names ; fiat types
+             */
+            
             return View(transaction);
         }
 
